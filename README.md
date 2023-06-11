@@ -10,12 +10,12 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Estou no meu início de carreira em busca de oportunidades para aprender coisas novas e me desenvolver profissionalmente.
     
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Interesses: Java / JavaScript / Angular / CSS / HTML 😉️
   </p>
   
 </div>

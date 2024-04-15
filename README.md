@@ -1,7 +1,4 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" />
-&nbsp;&nbsp;&nbsp;
-
+<img width=100% src="https://png.pngtree.com/background/20210711/original/pngtree-blue-minimalistic-tech-computer-banner-poster-background-picture-image_1081883.jpg"/>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> This repository is my digital playground, where I experiment, learn, and showcase my evolving skills as a developer. From small scripts to ambitious projects, each line of code represents a step forward in my journey. Crafting code and shaping dreams, one line at a time; a journey of passion and precision in the realm of software.</p>&nbsp;
@@ -25,7 +22,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23FF6600.svg?&style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
